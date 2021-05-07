@@ -48,3 +48,7 @@ localhost dashboard
 
 localhost blog seeds
 ![blog test](images/blogTest.JPG)
+
+### heroku link 
+
+https://young-fjord-76607.herokuapp.com/login
